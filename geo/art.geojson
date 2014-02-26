@@ -1,0 +1,753 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "coa_public_art.1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.54846914377977,
+          35.59695623250279
+        ]
+      },
+      "geometry_name": "shape",
+      "properties": {
+        "name": "Energy Loop",
+        "artist": "Dirk Cruiser",
+        "ut_station": 0,
+        "image": "http://farm7.static.flickr.com/6190/6103304299_83a8fe4361.jpg",
+        "edit_date": "2013-09-05 09:00:00.0",
+        "edit_by": "asheville\\davemichelson                                                                             ",
+        "location": "College St, N of Courthouse",
+        "type": "Sculpture",
+        "urbantrail": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "coa_public_art.2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.55116380757755,
+          35.595133243078834
+        ]
+      },
+      "geometry_name": "shape",
+      "properties": {
+        "name": "Pack Fountain",
+        "artist": "Hoss Haley",
+        "ut_station": 0,
+        "image": "http://farm7.static.flickr.com/6190/6103850412_cdb2c2f2a2.jpg",
+        "edit_date": "2013-09-05 09:16:00.0",
+        "edit_by": "asheville\\davemichelson                                                                             ",
+        "location": "Pack Square",
+        "type": "Fountain",
+        "urbantrail": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "coa_public_art.3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.55467601370952,
+          35.594551533707985
+        ]
+      },
+      "geometry_name": "shape",
+      "properties": {
+        "name": "Deco Gecko",
+        "artist": "Harry McDaniel",
+        "ut_station": 0,
+        "image": "http://farm7.static.flickr.com/6199/6103303497_5a6688d6ab.jpg",
+        "edit_date": "2013-09-05 09:12:00.0",
+        "edit_by": "asheville\\davemichelson                                                                             ",
+        "location": "Pritchard Park",
+        "type": "Sculpture",
+        "urbantrail": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "coa_public_art.4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.54902009304068,
+          35.59562170392618
+        ]
+      },
+      "geometry_name": "shape",
+      "properties": {
+        "name": "Pergola",
+        "artist": "Hoss Haley",
+        "ut_station": 0,
+        "image": "http://farm7.static.flickr.com/6199/6103850912_8983e62fa6.jpg",
+        "edit_date": "2013-09-05 09:02:00.0",
+        "edit_by": "asheville\\davemichelson                                                                             ",
+        "location": "Pack Square Park",
+        "type": "Pergola",
+        "urbantrail": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "coa_public_art.5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5490205047696,
+          35.595522957675705
+        ]
+      },
+      "geometry_name": "shape",
+      "properties": {
+        "name": "Relax",
+        "artist": "Kathy Triplett",
+        "ut_station": 0,
+        "image": "http://farm7.static.flickr.com/6182/6127210626_ef03748d7c.jpg",
+        "edit_date": "2013-09-05 09:02:00.0",
+        "edit_by": "asheville\\davemichelson                                                                             ",
+        "location": "Pack Square Park",
+        "type": "Relief",
+        "urbantrail": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "coa_public_art.6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.55025871618248,
+          35.5953064927595
+        ]
+      },
+      "geometry_name": "shape",
+      "properties": {
+        "name": "left of center",
+        "artist": "Julia C. Burr",
+        "ut_station": 0,
+        "image": "http://farm7.static.flickr.com/6208/6103304113_037072f889.jpg",
+        "edit_date": "2013-09-05 09:06:00.0",
+        "edit_by": "asheville\\davemichelson                                                                             ",
+        "location": "Court Plaza, Pack SquarePark",
+        "type": "Sculpture",
+        "urbantrail": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "coa_public_art.7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.55148027565514,
+          35.59487495340955
+        ]
+      },
+      "geometry_name": "shape",
+      "properties": {
+        "name": "Walk Into History",
+        "artist": null,
+        "ut_station": 1,
+        "image": "http://farm7.static.flickr.com/6083/6127811406_ee6570b4ff.jpg",
+        "edit_date": "2013-09-05 09:16:00.0",
+        "edit_by": "asheville\\davemichelson                                                                             ",
+        "location": "Pack Square",
+        "type": "Plaque",
+        "urbantrail": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "coa_public_art.8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5515339395277,
+          35.595000386679864
+        ]
+      },
+      "geometry_name": "shape",
+      "properties": {
+        "name": "Crossroads",
+        "artist": " ",
+        "ut_station": 2,
+        "image": "http://farm7.static.flickr.com/6075/6103305943_9c5ef428bb.jpg",
+        "edit_date": "2013-09-05 09:16:00.0",
+        "edit_by": "asheville\\davemichelson                                                                             ",
+        "location": "Pack Square",
+        "type": "Sculpture",
+        "urbantrail": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "coa_public_art.9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.55274758357787,
+          35.59473451066173
+        ]
+      },
+      "geometry_name": "shape",
+      "properties": {
+        "name": "Stepping Out",
+        "artist": " ",
+        "ut_station": 3,
+        "image": "http://farm7.static.flickr.com/6201/6103851568_3161e112be.jpg",
+        "edit_date": "2013-09-05 09:14:00.0",
+        "edit_by": "asheville\\davemichelson                                                                             ",
+        "location": "Corner of S Lexington and Patton",
+        "type": "Sculpture",
+        "urbantrail": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "coa_public_art.10",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.55325467337279,
+          35.59466313539498
+        ]
+      },
+      "geometry_name": "shape",
+      "properties": {
+        "name": "O'Henry",
+        "artist": " ",
+        "ut_station": 4,
+        "image": "http://farm7.static.flickr.com/6191/6103851890_c9fc64b723.jpg",
+        "edit_date": "2013-09-05 09:14:00.0",
+        "edit_by": "asheville\\davemichelson                                                                             ",
+        "location": "Patton",
+        "type": "Plaque",
+        "urbantrail": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "coa_public_art.11",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.55344405551622,
+          35.594601669792496
+        ]
+      },
+      "geometry_name": "shape",
+      "properties": {
+        "name": "Immortal Image",
+        "artist": " ",
+        "ut_station": 5,
+        "image": "http://farm7.static.flickr.com/6201/6103854246_550a4ffbdd.jpg",
+        "edit_date": "2013-09-05 09:14:00.0",
+        "edit_by": "asheville\\davemichelson                                                                             ",
+        "location": "Corner of Patton and Church",
+        "type": "Plaque",
+        "urbantrail": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "coa_public_art.12",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.55338482596498,
+          35.594771907751685
+        ]
+      },
+      "geometry_name": "shape",
+      "properties": {
+        "name": "Elizabeth Blackwell, M.D.",
+        "artist": " ",
+        "ut_station": 6,
+        "image": "http://farm7.static.flickr.com/6191/6103852614_c825858172.jpg",
+        "edit_date": "2013-09-05 09:14:00.0",
+        "edit_by": "asheville\\davemichelson                                                                             ",
+        "location": "Patton",
+        "type": "Sculpture",
+        "urbantrail": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "coa_public_art.13",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.55483887499439,
+          35.59516007549652
+        ]
+      },
+      "geometry_name": "shape",
+      "properties": {
+        "name": "Flat Iron Architecture",
+        "artist": " ",
+        "ut_station": 8,
+        "image": "http://farm7.static.flickr.com/6078/6103305365_aee5506962.jpg",
+        "edit_date": "2013-09-05 09:11:00.0",
+        "edit_by": "asheville\\davemichelson                                                                             ",
+        "location": "Corner of Wall St and Battery Park",
+        "type": "Sculpture",
+        "urbantrail": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "coa_public_art.14",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.55597800675088,
+          35.595139811762884
+        ]
+      },
+      "geometry_name": "shape",
+      "properties": {
+        "name": "Grove's Vision",
+        "artist": " ",
+        "ut_station": 10,
+        "image": "http://farm7.static.flickr.com/6070/6103305273_eac64457b0.jpg",
+        "edit_date": "2013-09-05 09:11:00.0",
+        "edit_by": "asheville\\davemichelson                                                                             ",
+        "location": "Corner of Battery Park and Page",
+        "type": "Monument",
+        "urbantrail": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "coa_public_art.15",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5556568323461,
+          35.59714295305084
+        ]
+      },
+      "geometry_name": "shape",
+      "properties": {
+        "name": "Appalachian Stage",
+        "artist": " ",
+        "ut_station": 13,
+        "image": "http://farm7.static.flickr.com/6210/6103306839_aac20a7b93.jpg",
+        "edit_date": "2013-09-05 09:11:00.0",
+        "edit_by": "asheville\\davemichelson                                                                             ",
+        "location": "Haywood, Civic Center",
+        "type": "Sculpture",
+        "urbantrail": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "coa_public_art.16",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.55076424913774,
+          35.59583019855693
+        ]
+      },
+      "geometry_name": "shape",
+      "properties": {
+        "name": "Civic Pride",
+        "artist": " ",
+        "ut_station": 22,
+        "image": "http://farm7.static.flickr.com/6085/6103306027_78595aa98a.jpg",
+        "edit_date": "2013-09-05 09:06:00.0",
+        "edit_by": "asheville\\davemichelson                                                                             ",
+        "location": "Corner of Market and College",
+        "type": "Plaque",
+        "urbantrail": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "coa_public_art.17",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.55108413620606,
+          35.596931959010774
+        ]
+      },
+      "geometry_name": "shape",
+      "properties": {
+        "name": "On the Move",
+        "artist": " ",
+        "ut_station": 21,
+        "image": "http://farm7.static.flickr.com/6090/6103307525_1b43cfacaa.jpg",
+        "edit_date": "2013-09-05 09:08:00.0",
+        "edit_by": "asheville\\davemichelson                                                                             ",
+        "location": "Corner of Walnut and N Market",
+        "type": "Sculpture",
+        "urbantrail": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "coa_public_art.18",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.55058881775155,
+          35.597079619582495
+        ]
+      },
+      "geometry_name": "shape",
+      "properties": {
+        "name": "Curtain Calls",
+        "artist": " ",
+        "ut_station": 20,
+        "image": "http://farm7.static.flickr.com/6207/6103852902_6edd3148d1.jpg",
+        "edit_date": "2013-09-05 09:07:00.0",
+        "edit_by": "asheville\\davemichelson                                                                             ",
+        "location": "Walnut St",
+        "type": "Sculpture",
+        "urbantrail": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "coa_public_art.19",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.55153659288642,
+          35.59842183685853
+        ]
+      },
+      "geometry_name": "shape",
+      "properties": {
+        "name": "Wolfe's Neighborhood",
+        "artist": " ",
+        "ut_station": 18,
+        "image": "http://farm7.static.flickr.com/6084/6103307699_2e37e2005e.jpg",
+        "edit_date": "2013-09-05 08:58:00.0",
+        "edit_by": "asheville\\davemichelson                                                                             ",
+        "location": "Corner of Woodfin and N Market St",
+        "type": "Sculpture",
+        "urbantrail": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "coa_public_art.20",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.55229104284227,
+          35.59715343837093
+        ]
+      },
+      "geometry_name": "shape",
+      "properties": {
+        "name": "Legacy of Design",
+        "artist": " ",
+        "ut_station": 16,
+        "image": "http://farm7.static.flickr.com/6062/6103854394_6a33a337f1.jpg",
+        "edit_date": "2013-09-05 09:08:00.0",
+        "edit_by": "asheville\\davemichelson                                                                             ",
+        "location": "Broadway St",
+        "type": "Sculpture",
+        "urbantrail": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "coa_public_art.21",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5503273120146,
+          35.59434338859773
+        ]
+      },
+      "geometry_name": "shape",
+      "properties": {
+        "name": "The Block",
+        "artist": " ",
+        "ut_station": 29,
+        "image": "http://farm7.static.flickr.com/6072/6103304457_4ebc969638.jpg",
+        "edit_date": "2013-09-05 09:17:00.0",
+        "edit_by": "asheville\\davemichelson                                                                             ",
+        "location": "N Market St",
+        "type": "Sculpture",
+        "urbantrail": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "coa_public_art.22",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.55296101999659,
+          35.59640503132339
+        ]
+      },
+      "geometry_name": "shape",
+      "properties": {
+        "name": "Marketplace",
+        "artist": " ",
+        "ut_station": 15,
+        "image": "http://farm7.static.flickr.com/6080/6103307439_5d7dbaebfd.jpg",
+        "edit_date": "2013-09-05 09:09:00.0",
+        "edit_by": "asheville\\davemichelson                                                                             ",
+        "location": "Corner of Walnut and N Lexington",
+        "type": "Sculpture",
+        "urbantrail": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "coa_public_art.23",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.55059766650106,
+          35.597683643135156
+        ]
+      },
+      "geometry_name": "shape",
+      "properties": {
+        "name": "Dixieland",
+        "artist": " ",
+        "ut_station": 19,
+        "image": "http://farm7.static.flickr.com/6076/6103852784_535280d0ae.jpg",
+        "edit_date": "2013-09-05 08:59:00.0",
+        "edit_by": "asheville\\davemichelson                                                                             ",
+        "location": "Thomas Wolfe Memorial",
+        "type": "Sculpture",
+        "urbantrail": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "coa_public_art.24",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.55247960652743,
+          35.5982035872629
+        ]
+      },
+      "geometry_name": "shape",
+      "properties": {
+        "name": "Woodfin House",
+        "artist": " ",
+        "ut_station": 17,
+        "image": "http://farm7.static.flickr.com/6081/6103854688_5a51148f42.jpg",
+        "edit_date": "2013-09-05 08:58:00.0",
+        "edit_by": "asheville\\davemichelson                                                                             ",
+        "location": "Corner of Woodfin and Broadway",
+        "type": "Sculpture",
+        "urbantrail": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "coa_public_art.25",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.55487517889128,
+          35.59608970398707
+        ]
+      },
+      "geometry_name": "shape",
+      "properties": {
+        "name": "Shopping Daze",
+        "artist": " ",
+        "ut_station": 14,
+        "image": "http://farm7.static.flickr.com/6076/6103304671_d23bd2e675.jpg",
+        "edit_date": "2013-09-05 09:11:00.0",
+        "edit_by": "asheville\\davemichelson                                                                             ",
+        "location": "Corner of Haywood and Walnut",
+        "type": "Sculpture",
+        "urbantrail": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "coa_public_art.26",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.55624659908293,
+          35.596129343173665
+        ]
+      },
+      "geometry_name": "shape",
+      "properties": {
+        "name": "Historic Hilltop",
+        "artist": " ",
+        "ut_station": 11,
+        "image": "http://farm7.static.flickr.com/6183/6103853972_946e3872f9.jpg",
+        "edit_date": "2013-09-05 09:11:00.0",
+        "edit_by": "asheville\\davemichelson                                                                             ",
+        "location": "Page Ave",
+        "type": "Sculpture",
+        "urbantrail": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "coa_public_art.27",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.55611002206719,
+          35.59452850454243
+        ]
+      },
+      "geometry_name": "shape",
+      "properties": {
+        "name": "Cat Walk",
+        "artist": " ",
+        "ut_station": 9,
+        "image": "http://farm7.static.flickr.com/6182/6103306237_d01952cc66.jpg",
+        "edit_date": "2013-09-05 09:12:00.0",
+        "edit_by": "asheville\\davemichelson                                                                             ",
+        "location": "Wall St",
+        "type": "Sculpture",
+        "urbantrail": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "coa_public_art.28",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.55593745688805,
+          35.596929383366586
+        ]
+      },
+      "geometry_name": "shape",
+      "properties": {
+        "name": "Gustavino's Monument",
+        "artist": " ",
+        "ut_station": 12,
+        "image": "http://farm7.static.flickr.com/6200/6127371018_c62bf517d7.jpg",
+        "edit_date": "2013-09-05 08:51:00.0",
+        "edit_by": "asheville\\davemichelson                                                                             ",
+        "location": "Corner of Flint and Haywood",
+        "type": "Plaque",
+        "urbantrail": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "coa_public_art.38",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5570641907013,
+          35.595919889425716
+        ]
+      },
+      "geometry_name": "shape",
+      "properties": {
+        "name": "Battery Park",
+        "artist": " ",
+        "ut_station": 0,
+        "image": " ",
+        "edit_date": "2013-09-05 08:49:00.0",
+        "edit_by": "asheville\\davemichelson                                                                             ",
+        "location": "OHenry Ave, Grove Arcade",
+        "type": "Plaque",
+        "urbantrail": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "coa_public_art.39",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.55716707405787,
+          35.59413634806444
+        ]
+      },
+      "geometry_name": "shape",
+      "properties": {
+        "name": "Passage, Albert Paley",
+        "artist": " ",
+        "ut_station": 0,
+        "image": " ",
+        "edit_date": "2013-09-05 08:52:00.0",
+        "edit_by": "asheville\\davemichelson                                                                             ",
+        "location": "Corner of Otis and Patton",
+        "type": "Sculpture",
+        "urbantrail": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "coa_public_art.40",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.55120633560321,
+          35.59487649677333
+        ]
+      },
+      "geometry_name": "shape",
+      "properties": {
+        "name": "Thomas Wolfe Memorial Angel",
+        "artist": " ",
+        "ut_station": 0,
+        "image": " ",
+        "edit_date": "2013-09-05 08:54:00.0",
+        "edit_by": "asheville\\davemichelson                                                                             ",
+        "location": "Pack Square",
+        "type": "Sculpture",
+        "urbantrail": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "coa_public_art.42",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.54935954600184,
+          35.595928219835464
+        ]
+      },
+      "geometry_name": "shape",
+      "properties": {
+        "name": "Veterans Memorial",
+        "artist": " ",
+        "ut_station": 0,
+        "image": " ",
+        "edit_date": "2013-09-05 08:56:00.0",
+        "edit_by": "asheville\\davemichelson                                                                             ",
+        "location": "College St, in front of Courthouse",
+        "type": "Monument",
+        "urbantrail": "no"
+      }
+    }
+  ],
+  "crs": {
+    "type": "EPSG",
+    "properties": {
+      "code": "4326"
+    }
+  },
+  "bbox": [
+    -82.55716707405787,
+    35.59386149112946,
+    -82.54846914377977,
+    35.59842183685853
+  ]
+}

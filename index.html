@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="author" content="Jessica Austin">
+<meta name="description" content="map using openstreetmaps and leaflet.js to place markers around asheville with sights/parks,etc. dynamic data pulled in via geojson files" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+  <title>Asheville Sights</title>
+  <!-- stylesheets -->
+<link href="styles/default.css" rel="stylesheet">
+<link href="styles/leaflet.css" rel="stylesheet" />
+  <!-- links to geojson files for data retrieval -->
+<link rel="parks" type="application/json" href="geo/park.geojson">
+<link rel="greenways" type="application/json" href="geo/greenway.geojson">       
+<link rel="arts" type="application/json" href="geo/art.geojson">  
+<link rel="districts" type="application/json" href="geo/districts.geojson">  
+
+</head>
+
+<body>
+  <div id="map">
+  </div>
+<script src="scripts/jquery-2.1.0.min.js"></script>
+<script src="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.js"></script>
+<script src="scripts/default.js"></script>
+</body>
+
+</html>
+
+

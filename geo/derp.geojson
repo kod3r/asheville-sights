@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "test.1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.56728000000000,
+          35.60271000000000
+        ]
+      },
+      "geometry_name": "shape",
+      "properties": {
+        "name": "A Hope",
+      }
+    }
+  ]
+}
